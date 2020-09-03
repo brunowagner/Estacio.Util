@@ -1,4 +1,4 @@
-# Estacio.Util
+# Repositório para auxiliar no curso
 
 
 ## EAD - WebAula: Como configurar o navegador
